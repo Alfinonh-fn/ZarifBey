@@ -1,5 +1,6 @@
 ### TURKEY TEAM 
 ![Zarif's github stats](https://github-readme-stats.vercel.app/api?username=zarifbey&theme=dark&show_icons=true)
+![Zarif's github stats](https://github-readme-stats.vercel.app/api?username=zarifbey&theme=maroongold&show_icons=true)
 <!--
 **ZarifBey/ZarifBey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
