@@ -1,5 +1,5 @@
 ### TURKEY TEAM 
-[![Zarif's github stats](https://github-readme-stats.vercel.app/api?username=zarifbey)](https://github.com/anuraghazra/github-readme-stats)
+[![Zarif's github stats](https://github-readme-stats.vercel.app/api?username=zarifbey)](https://github.com/zarifbey/github-readme-stats)
 <!--
 **ZarifBey/ZarifBey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Zarif's github stats](https://github-readme-stats.vercel.app/api?username=zarifbey&show_icons=true&theme=radical)
-![Zarif's github stats](https://github-readme-stats.vercel.app/api?username=zarifbey&count_private=true)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zarifbey&repo=github-readme-stats)](https://github.com/zarifbey/github-readme-stats)
