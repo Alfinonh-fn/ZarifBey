@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Zarif's github stats](https://github-readme-stats.vercel.app/api?username=zarifbey&show_icons=true&theme=radical)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zarifbey&repo=github-readme-stats)](https://github.com/zarifbey/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zarifbey&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
