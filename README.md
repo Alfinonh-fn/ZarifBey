@@ -1,6 +1,8 @@
 ### TURKEY TEAM 
 ![Zarif's github stats](https://github-readme-stats.vercel.app/api?username=zarifbey&theme=dark&show_icons=true)
 ![Zarif's github stats](https://github-readme-stats.vercel.app/api?username=zarifbey&theme=maroongold&show_icons=true)
+![Zarif's github stats](https://github-readme-stats.vercel.app/api?username=zarifbey&show_icons=true&theme=radical)
+![Zarif's github stats](https://github-readme-stats.vercel.app/api?username=zarifbey&theme=yeblu&show_icons=true)
 <!--
 **ZarifBey/ZarifBey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Zarif's github stats](https://github-readme-stats.vercel.app/api?username=zarifbey&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarifbey&langs_count=8)](https://github.com/zarifbey/github-readme-stats)
 
