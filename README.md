@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarifbey&langs_count=8)](https://github.com/zarifbey/github-readme-stats)
-![Zarif's github stats](https://github-readme-repocard.vercel.app/api?username=zarifbey&theme=yeblu&show_icons=true)
+
